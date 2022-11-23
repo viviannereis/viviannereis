@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e2c1f3&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e2c1f3&height=140&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E2C1F3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vivianne+Reis;I'm+25+years+old;I'm+from+Brazil;I+Graduated+Computer+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -19,10 +19,9 @@
 ### Main skills:
 ![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-
-<a href="https://www.youtube.com/channel/[YOUR CHANNEL ID]">
- <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=[YOUR CHANNEL ID]&key=[YOUR API KEY]"/>
-</a>
-
+![Tailwind](https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge&logo=tailwind3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Wordpress](https://img.shields.io/badge/-Wordpress-0D1117?style=for-the-badge&logo=wordpress3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=javascript3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e2c1f3&height=120&section=footer"/>
