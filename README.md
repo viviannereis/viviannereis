@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d8a8f4&height=140&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E2C1F3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vivianne;I'm+Designer+UI/UX;I'm+from+Brazil;I+Graduated+Computer+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E2C1F3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vivianne;I'm+Designer+UI/UX;I+Graduated+Computer+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <!--## Hi, welcome! This is Vivianne, I'm a UI/UX Designer 🎨-->
 
