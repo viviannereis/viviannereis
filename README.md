@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d8a8f4&height=140&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FE51B0&height=140&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E2C1F3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vivianne;I'm+Designer+UI/UX;I+Graduated+Computer+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -27,4 +27,4 @@
   <a href="https://www.linkedin.com/in/vivianne-reis-711148119/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d8a8f4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00C69E&height=120&section=footer"/>
